@@ -1,0 +1,24 @@
+{
+    type:               "shoppingcart",
+    shoppingcartid:     "a4cde56a-2e71-42ab-a458-b52dc81b0fdd",
+    products:       [
+                        {   productid: "21291d4d-6199-45eb-8549-e941813752f8",
+                            title: "<Gerne was Kreatives einbauen ;)>",
+                            price: "10.99",
+                            amount: 1,
+                            image: "<hier bitte etwas Passendes einbauen>",
+                        },
+                        {   productid: "f05f4a23-10a1-4f39-a959-bfcbfaa613a3",
+                            title: "<Gerne was kKreatives einbauen ;)>",
+                            price: "200.99",
+                            amount: 1,
+                            image: "<hier bitte etwas Passendes einbauen>",
+                        },
+                    ],
+    sum: "211.98",
+    vatPercent: "19%",
+    vatSum: "49,19",
+    deliveryCosts: "4.99",
+    totalSum: "266.16",
+    currency: "EUR"
+}
